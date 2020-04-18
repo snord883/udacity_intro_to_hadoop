@@ -36,4 +36,6 @@ hadoop fs -ls
 
 #### Other helpful commands
 Deleting a directory on HDFS
-```hadoop fs -rm -r outputDir```
+```
+hadoop fs -rm -r outputDir
+```
